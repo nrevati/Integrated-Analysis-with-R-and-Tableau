@@ -6,54 +6,67 @@ This project analyzes passenger data from the Titanic to identify characteristic
 🛠️Technologies Used
 
 R: Data preparation and advanced statistical analysis
+
 Tableau: Interactive data visualization
+
 RServe: Connecting R and Tableau
 
 🔍Key Steps:
 
-Data Preparation
+Data Preparation:
 
-Clean and organize the Titanic passenger data
+Clean and organize the Titanic passenger data.
+
 Create useful categories for age, ticket class, etc.
 
 
-Advanced Analysis
+Advanced Analysis:
 
 Use statistical techniques to group passengers with similar characteristics.
 
 
-Interactive Visualization
+Interactive Visualization:
 
-Create easy-to-use dashboards in Tableau to explore:
+Create easy-to-use dashboards in Tableau to explore.
 
 Overall passenger groups and their survival rates.
+
 How survival varies by gender, ticket class, age, where passengers boarded, and family size.
 
 
 Identify Key Survival Factors:
 
-Determine which passenger characteristics are most associated with survival
+Determine which passenger characteristics are most associated with survival.
 
 
 
 📊Results:
+
 Our analysis reveals two groups of passengers that have much higher chances of survival:
 
 Group A:
 
 Women
+
 Traveling in second class
+
 Between 17 and 32 years old
+
 Boarded at Southampton
+
 Traveling without siblings
 
 
 Group B:
 
 Women
+
 Traveling in first class
+
 Between 17 and 32 years old
+
 Boarded at Cherbourg
+
 Traveling without siblings
 
 
