@@ -1,9 +1,10 @@
 # 🚢 Titanic-Survival-Analysis-with-R-and-Tableau
 
-📚Project Overview
+📚Project Overview:
+
 This project analyzes passenger data from the Titanic to identify characteristics associated with higher survival rates. We use R for data processing and advanced analysis, and Tableau for creating interactive visualizations to explore the results.
 
-🛠️Technologies Used
+🛠️Technologies Used:
 
 R: Data preparation and advanced statistical analysis
 
